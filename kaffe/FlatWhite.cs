@@ -22,7 +22,7 @@ namespace kaffe
         {
             return 45;
         }
-        public string Styrke()
+        public override string Styrke()
         {
             return "Mild";
         }
